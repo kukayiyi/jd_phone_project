@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC
+        "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+    <properties resource="connection.properties"/>
+    <typeAliases>
+        <typeAlias type="com.kuka.jd.DataProcessing.util.DruidDataSourceFactory" alias="DRUID"/>
+    </typeAliases>
+    <environments default="hive">
+        <environment id="mysql">
+            <transactionManager type="JDBC"/>
+            <dataSource type="DRUID">
+                <property name="driver" value="${mysql.driver}"/>
+                <property name="url" value="${mysql.url}"/>
+                <property name="username" value="${mysql.user}"/>
+                <property name="password" value="${mysql.password}"/>
+            </dataSource>
+        </environment>
+        <environment id="hive">
+            <transactionManager type="JDBC"/>
+            <dataSource type="DRUID">
+                <property name="driver" value="${hive.driver}"/>
+                <property name="url" value="${hive.url}"/>
+<!--                <property name="username" value=""/>-->
+<!--                <property name="password" value=""/>-->
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <mapper resource="mapper/hive-mapper.xml"/>
+        <mapper resource="mapper/mysql-mapper.xml"/>
+    </mappers>
+</configuration>

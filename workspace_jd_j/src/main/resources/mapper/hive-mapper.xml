@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC
+        "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kuka.jd.DataProcessing.dao.hiveTableDao">
+    <select id="findTable" parameterType="java.lang.String" resultType="java.lang.String">
+        show tables like #{tableName}
+    </select>
+    <update id="createListTable">
+        create table jd_phone_list(
+            id string,
+            name string,
+            search_name string,
+            price string,
+            brand string,
+            comment_num string
+        )
+        stored by 'org.apache.hadoop.hive.hbase.HBaseStorageHandler'
+            With serdeproperties("hbase.columns.mapping"=":key,detail:name,list:phone_name,list:phone_price,detail:brand,list:phone_comment_cnt")
+        tblproperties("hbase.table.name"="jd_phone_info")
+    </update>
+    <update id="createCommentTable">
+        create table jd_phone_comment(
+            id string,
+            content string,
+            score string,
+            plus_level string
+        )
+        stored by 'org.apache.hadoop.hive.hbase.HBaseStorageHandler'
+            With serdeproperties("hbase.columns.mapping"=":key,comment:content,comment:score,comment:plusAvailable")
+        tblproperties("hbase.table.name"="jd_phone_comment")
+    </update>
+    <update id="createCsvTable">
+        create table ${tableName}(
+            <foreach collection="column" item="col" separator=",">
+                ${col} string
+            </foreach>
+        )
+        ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS TEXTFILE
+    </update>
+    <update id="loadCsv">
+        load data inpath #{HdfsPath} into table ${tableName}
+    </update>
+
+</mapper>

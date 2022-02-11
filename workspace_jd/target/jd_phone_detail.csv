@@ -1,0 +1,242 @@
+商品名称,商品编号,商品毛重,商品产地,CPU型号,运行内存,机身存储,存储卡,摄像头数量,后摄主摄像素,前摄主摄像素,主屏幕尺寸（英寸）,分辨率,屏幕比例,充电器,热点,操作系统,游戏配置,品牌
+商品名称,商品编号,商品毛重,商品产地,运行内存,后摄主摄像素,前摄主摄像素,分辨率,充电器,机身内存,系统,品牌
+荣耀荣耀手机,100016333567,500.00g,中国大陆,null,其他,null,null,null,10800万像素,3200万像素,null,全高清FHD+,null,其他,null,null,null, 荣耀（HONOR）
+荣耀play5T 4G,100011493273,400.00g,中国大陆,Unisoc T610,8GB,null,其他,null,1300万像素,500万像素,null,高清HD+,null,10V/2.25A,快速充电,null,无游戏配置, 荣耀（HONOR）
+小米Redmi Note9 Pro,100016799386,500.00g,中国大陆,骁龙750G,8GB,null,支持MicroSD(TF),null,1亿像素,1600万像素,null,全高清FHD+,null,其他,人脸识别，快速充电，NFC，5G,null,null, 小米（MI）
+荣耀play5T 4G,100021830456,420.00g,中国大陆,Unisoc T610,8GB,null,其他,null,1300万像素,500万像素,null,高清HD+,null,10V/2.25A,快速充电,null,无游戏配置, 荣耀（HONOR）
+小米Redmi Note9 Pro,100009586279,500.00g,中国大陆,骁龙750G,8GB,null,支持MicroSD(TF),null,1亿像素,1600万像素,null,全高清FHD+,null,其他,人脸识别，快速充电，NFC，5G,null,null, 小米（MI）
+小米Redmi K40 5G,100018640796,498.00g,中国大陆,骁龙870,12GB,null,不支持存储卡,null,4800万像素,2000万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,null, 小米（MI）
+荣耀荣耀手机,100029666210,500.00g,中国大陆,null,12GB,null,null,null,10800万像素,null,null,全高清FHD+,null,其他,null,null,null, 荣耀（HONOR）
+小米Redmi Note9 Pro,100009586259,500.00g,中国大陆,骁龙750G,8GB,null,支持MicroSD(TF),null,1亿像素,1600万像素,null,全高清FHD+,null,其他,人脸识别，快速充电，NFC，5G,null,null, 小米（MI）
+荣耀Play5T Pro,100013102509,400.00g,中国大陆,MediaTek Helio G80,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,10V/2.25A,快速充电,null,null, 荣耀（HONOR）
+荣耀50 5G,100022447596,490.00g,中国大陆,其他,8GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+小米Redmi 9A,100014348458,370.00g,中国大陆,其他,4GB,null,支持MicroSD(TF),null,1300万像素,500万像素,null,其他,null,5V/2A,null,null,null, 小米（MI）
+荣耀play5T 4G,100021830458,415.00g,中国大陆,Unisoc T610,8GB,null,其他,null,1300万像素,500万像素,null,高清HD+,null,10V/2.25A,快速充电,null,无游戏配置, 荣耀（HONOR）
+小米小米12系列,100017174305,300.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,其他, 小米（MI）
+小米Redmi 9A,100014348478,367.00g,中国大陆,其他,4GB,null,支持MicroSD(TF),null,1300万像素,500万像素,null,其他,null,5V/2A,null,null,null, 小米（MI）
+小米Redmi Note 9 4G,100016784108,420.00g,中国大陆,骁龙662,6GB,null,支持MicroSD(TF),null,4800万像素,800万像素,null,全高清FHD+,null,其他,null,null,null, 小米（MI）
+AppleiPhone 13 Pro Max,100026667928,400.00g,中国大陆,null,其他,null,不支持存储卡,null,1200万像素,null,null,其他,null,其他,null,null,null, Apple
+OPPOK9,100020693650,0.54kg,中国大陆,骁龙768G,8GB,null,不支持存储卡,null,6400万像素,3200万像素,null,全高清FHD+,null,10V/6.5A,屏幕指纹，快速充电，5G，超高屏占比，屏幕高刷新率,null,null, OPPO
+AppleiPhone 13,100026667910,320.00g,中国大陆,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, Apple
+vivoiQOO Neo5S,100016864319,0.52kg,中国大陆,骁龙888,8GB,null,null,null,4800万像素,1600万像素,null,其他,null,其他,NFC，快速充电，液冷散热，5G，超高屏占比,null,null, vivo
+AppleiPhone 13,100014352543,320.00g,中国大陆,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, Apple
+vivoiQOO Neo5,100018902024,0.52kg,中国大陆,骁龙870,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，液冷散热，5G，超高屏占比，屏幕高刷新率,null,游戏性能模式, vivo
+小米Redmi K40 5G,100018640834,495.00g,中国大陆,骁龙870,12GB,null,不支持存储卡,null,4800万像素,2000万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,X轴线性马达, 小米（MI）
+小米Redmi K40 Pro+,100018642196,500.00g,中国大陆,骁龙888,12GB,null,不支持存储卡,null,1亿像素,2000万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,X轴线性马达, 小米（MI）
+小米Redmi K40 5G,100018640844,495.00g,中国大陆,骁龙870,12GB,null,不支持存储卡,null,4800万像素,2000万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,X轴线性马达, 小米（MI）
+OPPOReno7,10040770519733,300.00g,null,骁龙778G,8GB,null,不支持存储卡,null,6400万像素,3200万像素,null,高清HD+,null,其他,5G,null,游戏勿扰模式, OPPO
+荣耀X10 5G,100007300007,227.00g,中国大陆,麒麟820,8GB,null,NM存储卡,null,4000万像素,1600万像素,null,全高清FHD+,null,10V/2.25A；其他,快速充电，5G，弹出式摄像头,null,null, 荣耀（HONOR）
+AppleiPhone 13,100014352501,320.00g,中国大陆,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, Apple
+小米Redmi Note 11 Pro ,100015195345,0.52kg,中国大陆,其他,其他,null,其他,null,其他,其他,null,其他,null,其他,其他,null,其他, 小米（MI）
+AppleiPhone 12,100009077475,320.00g,中国大陆,其他,其他,null,不支持存储卡,null,1200万像素,1200万像素,null,其他,null,其他,null,null,null, Apple
+荣耀50 5G,100011920595,490.00g,中国大陆,其他,8GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+荣耀play5 5G,100025046886,460.00g,中国大陆,天玑800U,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,11V/6A,NFC，快速充电，5G,null,null, 荣耀（HONOR）
+AppleiPhone 13,100026667880,320.00g,中国大陆,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, Apple
+小米Redmi Note 11 Pro ,100015195341,500.00g,中国大陆,其他,其他,null,其他,null,其他,其他,null,其他,null,其他,NFC，人脸识别，快速充电，液冷散热，5G，超高屏占比，屏幕高刷新率，其他,null,其他, 小米（MI）
+vivoiQOO Neo5 活力版,100011414185,0.51kg,中国大陆,骁龙870,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,11V/4A,快速充电,null,null, vivo
+荣耀50 5G,100011863279,490.00g,中国大陆,骁龙778G,8GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+小米Redmi K40 游戏增强版,100021211862,0.628kg,中国大陆,天玑1200,12GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,其他,快速充电，NFC，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，游戏显示增强，游戏深度优化，游戏勿扰模式，游戏性能模式，游戏灯效，游戏独立按键, 小米（MI）
+摩托罗拉摩托罗拉 edge X30,100016592743,0.52kg,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 摩托罗拉（Motorola）
+荣耀畅玩20 4G,100011207891,400.00g,中国大陆,Unisoc T610,4GB,null,其他,null,1300万像素,500万像素,null,高清HD+,null,5V/2A,null,null,null, 荣耀（HONOR）
+小米小米10S,100019044460,380.00g,中国大陆,骁龙870,8GB,null,不支持存储卡,null,1亿像素,2000万像素,null,其他,null,其他,液冷散热，人脸识别，无线充电，快速充电，NFC，屏幕指纹，5G，超高屏占比，屏幕高刷新率,null,液冷散热, 小米（MI）
+小米Redmi Note10 Pro,100022298852,0.51kg,中国大陆,天玑1100,6GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,其他,液冷散热,null,游戏性能模式, 小米（MI）
+vivoiQOO Neo5 活力版,100021594672,500.00g,中国大陆,骁龙870,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,11V/4A,快速充电,null,null, vivo
+AppleiPhone 12,100016034394,325.00g,中国大陆,其他,其他,null,不支持存储卡,null,1200万像素,1200万像素,null,其他,null,其他,null,null,null, Apple
+荣耀荣耀手机,100030541600,475.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 荣耀（HONOR）
+AppleiPhone 13,100014352525,320.00g,中国大陆,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, Apple
+AppleiPhone 13,100026667884,320.00g,中国大陆,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, Apple
+小米Redmi Note 11 5G,100028235472,480.00g,中国大陆,其他,6GB,null,支持MicroSD(TF),null,5000万像素,1600万像素,null,全高清FHD+,null,其他,人脸识别,null,其他, 小米（MI）
+AppleiPhone 13,100026667872,320.00g,中国大陆,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, Apple
+OPPOK7x,100020269344,0.535kg,中国大陆,其他,6GB,null,支持MicroSD(TF),null,4800万像素,1600万像素,null,全高清FHD+,null,5V6A,快速充电，5G，超高屏占比，屏幕高刷新率,null,null, OPPO
+荣耀手机,100024979796,0.55kg,中国大陆,骁龙888 Plus,12GB,null,不支持存储卡,null,5000万像素,1300万像素,null,全高清FHD+,null,10V/4A；10V/2A；11V/6A；10V/2.25A；9V/2A,防水防尘，NFC，屏幕指纹，高倍率变焦，人脸识别，快速充电，无线充电，曲面屏，5G，超高屏占比，3D(ToF或结构光)，屏幕高刷新率,null,null, 荣耀（HONOR）
+荣耀手机,100028087936,320.00g,中国大陆,天玑810,6GB,null,null,null,null,null,null,其他,null,10V/2.25A,null,null,null, 荣耀（HONOR）
+OPPOA11s,100013902765,485.00g,中国大陆,其他,8GB,null,null,null,1300万像素,800万像素,null,高清HD+,null,9V/2A,null,null,null, OPPO
+vivoiQOO 8,100024540670,0.72kg,中国大陆,骁龙888,12GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，液冷散热，5G，超高屏占比,null,游戏性能模式, vivo
+vivoiQOO Neo5 活力版,100021594694,500.00g,中国大陆,骁龙870,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,11V/4A,快速充电,null,null, vivo
+华为nova 8 SE,100016376331,350.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+魅族18s Pro,100026761896,475.00g,中国大陆,骁龙888 Plus,8GB,null,不支持存储卡,null,5000万像素,4400万像素,null,QHD+及以上,null,其他,NFC，屏幕指纹，无线充电，5G,null,游戏性能模式, 魅族（MEIZU）
+摩托罗拉摩托罗拉edge s系列手机,100024841438,430.00g,中国大陆,骁龙870,12GB,null,不支持存储卡,null,1亿像素,1600万像素,null,全高清FHD+,null,11V/3A,人脸识别，快速充电，高倍率变焦，5G，超高屏占比，屏幕高刷新率,null,null, 摩托罗拉（Motorola）
+小米Redmi K40 Pro+,100018642468,500.00g,中国大陆,骁龙888,12GB,null,不支持存储卡,null,1亿像素,2000万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,X轴线性马达, 小米（MI）
+真我GT 大师探索版,100012462503,0.56kg,中国大陆,骁龙870,12GB,null,不支持存储卡,null,5000万像素,3200万像素,null,全高清FHD+,null,10V/6.5A,null,null,null, 真我（realme）
+AppleiPhone 11,100008348530,371.00g,中国大陆,其他,其他,null,不支持存储卡,null,1200万像素,1200万像素,null,其他,null,其他,人脸识别,null,null, Apple
+小米Redmi Note 11 4G,100016415677,430.00g,中国大陆,Helio G88,6GB,null,支持MicroSD(TF),null,5000万像素,800万像素,null,全高清FHD+,null,10V/2.25A,屏幕高刷新率,null,其他, 小米（MI）
+vivoS12 Pro,100029782984,0.52kg,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, vivo
+小米Redmi Note 11 Pro ,100015195353,0.52kg,中国大陆,其他,其他,null,其他,null,其他,其他,null,其他,null,其他,其他,null,其他, 小米（MI）
+小米Redmi Note 11 5G,100028235502,475.00g,中国大陆,其他,6GB,null,支持MicroSD(TF),null,5000万像素,1600万像素,null,全高清FHD+,null,其他,人脸识别,null,其他, 小米（MI）
+小米Redmi Note9 Pro,100016799352,500.00g,中国大陆,骁龙750G,8GB,null,支持MicroSD(TF),null,1亿像素,1600万像素,null,全高清FHD+,null,其他,人脸识别，快速充电，NFC，5G,null,null, 小米（MI）
+小米Redmi Note10 Pro,100022298896,500.00g,中国大陆,天玑1100,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,其他,NFC，人脸识别，液冷散热，5G，超高屏占比，屏幕高刷新率,null,液冷散热，游戏震感，游戏显示增强，游戏勿扰模式，游戏性能模式, 小米（MI）
+小米Redmi K40 5G,100018640836,490.00g,中国大陆,骁龙870,8GB,null,不支持存储卡,null,4800万像素,2000万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,其他, 小米（MI）
+荣耀play5T 4G,100011493273,400.00g,中国大陆,Unisoc T610,8GB,null,其他,null,1300万像素,500万像素,null,高清HD+,null,10V/2.25A,快速充电,null,无游戏配置, 荣耀（HONOR）
+小米Redmi Note 9 4G,100016784100,420.00g,中国大陆,骁龙662,6GB,null,支持MicroSD(TF),null,4800万像素,800万像素,null,全高清FHD+,null,其他,null,null,null, 小米（MI）
+vivoiQOO Z5,100026330682,480.00g,中国大陆,骁龙778G,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,其他,null,其他,5G，超高屏占比,null,null, vivo
+荣耀play5T活力版 4G,100020909324,415.00g,中国大陆,MT6765,6GB,null,支持MicroSD(TF),null,1300万像素,800万像素,null,高清HD+,null,10V/2.25A,人脸识别，快速充电,null,null, 荣耀（HONOR）
+vivoiQOO Neo5 活力版,100021594704,0.51kg,中国大陆,骁龙870,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,11V/4A,快速充电,null,null, vivo
+小米Redmi K40 5G,100011218625,500.00g,中国大陆,骁龙870,12GB,null,不支持存储卡,null,4800万像素,2000万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,X轴线性马达, 小米（MI）
+纽曼（Newman）S13Pro,10040815542419,298.0kg,null,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, 纽曼（Newman）
+AppleiPhone 12,100011203359,330.00g,中国大陆,其他,其他,null,不支持存储卡,null,1200万像素,1200万像素,null,其他,null,其他,null,null,null, Apple
+AppleiPhone 12,100016034400,350.00g,中国大陆,其他,其他,null,不支持存储卡,null,1200万像素,1200万像素,null,其他,null,其他,null,null,null, Apple
+荣耀畅玩20 4G,100020974908,400.00g,中国大陆,Unisoc T610,4GB,null,其他,null,1300万像素,500万像素,null,高清HD+,null,5V/2A,null,null,null, 荣耀（HONOR）
+小米Redmi Note10 Pro,100011650795,500.00g,中国大陆,天玑1100,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,其他,液冷散热,null,游戏性能模式, 小米（MI）
+小米小米10S,100019031458,385.00g,中国大陆,骁龙870,8GB,null,不支持存储卡,null,1亿像素,2000万像素,null,其他,null,其他,液冷散热，人脸识别，无线充电，快速充电，NFC，屏幕指纹，5G，超高屏占比，屏幕高刷新率,null,液冷散热, 小米（MI）
+荣耀手机,100028087936,320.00g,中国大陆,天玑810,6GB,null,null,null,null,null,null,其他,null,10V/2.25A,null,null,null, 荣耀（HONOR）
+荣耀X20 5G,100013102495,450.00g,中国大陆,天玑900,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,11V/6A,快速充电，5G,null,null, 荣耀（HONOR）
+OPPOK9,100020693614,0.55kg,中国大陆,其他,8GB,null,不支持存储卡,null,6400万像素,3200万像素,null,全高清FHD+,null,10V/6.5A,快速充电，屏幕指纹，5G，超高屏占比，屏幕高刷新率,null,null, OPPO
+vivoiQOO Z5x,100027638300,480.00g,中国大陆,天玑900,6GB,null,null,null,5000万像素,800万像素,null,其他,null,其他,5G，超高屏占比,null,null, vivo
+荣耀荣耀手机,100016333567,500.00g,中国大陆,null,其他,null,null,null,10800万像素,3200万像素,null,全高清FHD+,null,其他,null,null,null, 荣耀（HONOR）
+vivoiQOO Neo5,100018902008,0.527kg,中国大陆,骁龙870,12GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，液冷散热，5G，超高屏占比,null,游戏性能模式, vivo
+vivoS12,10042160721383,0.53kg,null,天玑1100,8GB,null,null,null,null,null,null,全高清FHD+,null,11V/4A,人脸识别，快速充电，NFC，5G，超高屏占比,null,null, vivo
+荣耀50 5G,100023014934,500.00g,中国大陆,其他,8GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+小米Redmi K40 游戏增强版,100021205488,0.63kg,中国大陆,天玑1200,12GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,其他,快速充电，NFC，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，游戏显示增强，游戏深度优化，游戏勿扰模式，游戏性能模式，游戏灯效，游戏独立按键, 小米（MI）
+AppleiPhone 11,100008348542,368.00g,中国大陆,其他,其他,null,不支持存储卡,null,1200万像素,1200万像素,null,其他,null,其他,人脸识别,null,null, Apple
+AppleiPhone 13 Pro Max,100026667966,420.00g,中国大陆,null,其他,null,不支持存储卡,null,1200万像素,null,null,其他,null,其他,null,null,null, Apple
+小米MIX 4,100024972406,0.87kg,中国大陆,骁龙888 Plus,12GB,null,不支持存储卡,null,1亿像素,2000万像素,null,全高清FHD+,null,其他,快速充电，无线充电，人脸识别，屏幕指纹，NFC，5G，超高屏占比，屏幕高刷新率,null,游戏勿扰模式, 小米（MI）
+荣耀手机,100024016552,0.9kg,中国大陆,骁龙888 Plus,12GB,null,不支持存储卡,null,5000万像素,1300万像素,null,全高清FHD+,null,10V/4A；10V/2A；11V/6A；10V/2.25A；9V/2A,防水防尘，NFC，屏幕指纹，高倍率变焦，人脸识别，快速充电，无线充电，曲面屏，5G，超高屏占比，3D(ToF或结构光)，屏幕高刷新率,null,null, 荣耀（HONOR）
+三星Galaxy F52 5G,100021624934,405.00g,中国,骁龙750G,8GB,null,支持MicroSD(TF),null,6400万像素,1600万像素,null,全高清FHD+,null,9V/2.77A,人脸识别，5G，屏幕高刷新率,null,null, 三星（SAMSUNG）
+vivoiQOO 8 Pro,100024540640,0.73kg,中国大陆,骁龙888 Plus,12GB,null,不支持存储卡,null,5000万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，液冷散热，无线充电，5G，超高屏占比,null,游戏性能模式, vivo
+三星Galaxy Note20 Ultra 5G,100008116763,0.515kg,越南,骁龙865 plus,12GB,null,支持MicroSD(TF),null,1亿像素,1000万像素,null,QHD+及以上,null,其他,防水防尘，NFC，屏幕指纹，S Pen，高倍率变焦，人脸识别，无线充电，隔空操作，5G,null,null, 三星（SAMSUNG）
+小米Redmi  Note9 5G,100016773624,450.00g,中国大陆,天玑800U,6GB,null,支持MicroSD(TF),null,4800万像素,1300万像素,null,全高清FHD+,null,其他,null,null,null, 小米（MI）
+vivoiQOO U3x,10027681737875,200.00g,null,其他,6GB,null,不支持存储卡,null,1300万像素,800万像素,null,其他,null,9V/2A,null,null,null, vivo
+摩托罗拉摩托罗拉edge s系列手机,100024841438,430.00g,中国大陆,骁龙870,12GB,null,不支持存储卡,null,1亿像素,1600万像素,null,全高清FHD+,null,11V/3A,人脸识别，快速充电，高倍率变焦，5G，超高屏占比，屏幕高刷新率,null,null, 摩托罗拉（Motorola）
+荣耀play5 5G,100011473965,450.00g,中国大陆,天玑800U,8GB,null,null,null,null,null,null,全高清FHD+,null,11V/6A,快速充电，NFC，5G,null,其他, 荣耀（HONOR）
+小米MIX 4,100013223193,0.875kg,中国大陆,骁龙888 Plus,12GB,null,不支持存储卡,null,1亿像素,2000万像素,null,全高清FHD+,null,其他,快速充电，无线充电，人脸识别，屏幕指纹，NFC，5G，超高屏占比，屏幕高刷新率,null,游戏勿扰模式, 小米（MI）
+华为nova 9,100026797012,320.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+小米Redmi  Note9 5G,100016813958,460.00g,中国大陆,天玑800U,6GB,null,支持MicroSD(TF),null,4800万像素,1300万像素,null,全高清FHD+,null,其他,null,null,null, 小米（MI）
+vivoiQOO 7,100009989503,0.78kg,中国大陆,骁龙888,12GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，5G，超高屏占比，屏幕高刷新率,null,游戏性能模式, vivo
+【当日发】Apple 苹果iPhone 13 (A2634) 5G手机 午夜色 128GB,10035736086423,1.0kg,null,其他,其他,null,其他,null,其他,其他,null,其他,null,其他,null,null,null, Apple
+华为Mate 40 Pro,100011762575,0.6kg,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+vivoS10 Pro,100023397120,0.555kg,中国大陆,天玑1100,12GB,null,不支持存储卡,null,10800万像素,4400万像素,null,全高清FHD+,null,11V/4A,null,null,null, vivo
+一加9R,100011093657,0.7kg,中国大陆,骁龙870,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,全高清FHD+,null,10V/6.5A；其他,NFC，屏幕指纹，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,null, 一加
+真我新品,100027685780,0.543kg,中国大陆,天玑1200,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,10V/6.5A,null,null,null, 真我（realme）
+AppleiPhone 12 mini,100009077465,270.00g,中国大陆,其他,其他,null,其他,null,1200万像素,1200万像素,null,其他,null,其他,null,null,null, Apple
+索尼Xperia5 III,100028313126,400.00g,中国大陆,null,8GB,null,null,null,null,null,null,全高清FHD+,null,9V/3A,null,null,null, 索尼（SONY）
+华为P50系列,100024533316,350.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+荣耀play5T活力版 4G,100020837072,420.00g,中国大陆,MT6765,6GB,null,支持MicroSD(TF),null,1300万像素,800万像素,null,高清HD+,null,10V/2.25A,人脸识别，快速充电,null,null, 荣耀（HONOR）
+小米小米10S,100010562575,385.00g,中国大陆,骁龙870,8GB,null,不支持存储卡,null,1亿像素,2000万像素,null,其他,null,其他,液冷散热，人脸识别，无线充电，快速充电，NFC，屏幕指纹，5G，超高屏占比，屏幕高刷新率,null,液冷散热, 小米（MI）
+荣耀畅玩20 4G,100011186161,400.00g,中国大陆,Unisoc T610,4GB,null,其他,null,1300万像素,500万像素,null,高清HD+,null,5V/2A,null,null,null, 荣耀（HONOR）
+OPPOK9 Pro,100026379080,0.55kg,中国大陆,天玑1200,8GB,null,null,null,6400万像素,1600万像素,null,高清HD+,null,其他,NFC，快速充电，屏幕指纹，人脸识别，5G，超高屏占比，屏幕高刷新率,null,null, OPPO
+三星Galaxy Note20 Ultra 5G,100014589194,0.515kg,越南,骁龙865 plus,12GB,null,支持MicroSD(TF),null,1亿像素,1000万像素,null,QHD+及以上,null,其他,防水防尘，NFC，屏幕指纹，S Pen，高倍率变焦，人脸识别，无线充电，隔空操作，5G,null,null, 三星（SAMSUNG）
+华为nova 8 Pro,100020882344,400.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+小米Redmi Note 11 4G,100029766018,450.00g,中国大陆,Helio G88,4GB,null,支持MicroSD(TF),null,5000万像素,800万像素,null,全高清FHD+,null,10V/2.25A,屏幕高刷新率,null,其他, 小米（MI）
+荣耀50 5G,100011920607,480.00g,中国大陆,其他,12GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+小米小米11 Pro,100019791960,400.00g,中国大陆,骁龙888,8GB,null,不支持存储卡,null,5000万像素,2000万像素,null,QHD+及以上,null,其他,液冷散热，人脸识别，无线充电，快速充电，防水防尘，NFC，屏幕指纹，曲面屏，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，液冷散热，游戏显示增强，游戏震感，游戏深度优化，游戏勿扰模式，游戏性能模式, 小米（MI）
+OPPOK9s,100014951045,0.6kg,中国大陆,其他,8GB,null,null,null,6400万像素,1600万像素,null,全高清FHD+,null,其他,null,null,null, OPPO
+守护宝shb202081,69112800331,250.00g,null,其他,null,null,支持MicroSD(TF),null,1600万像素,800万像素,null,高清HD+,null,其他,人脸识别,null,null, 守护宝
+华为P50系列,100024533316,350.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+荣耀play5T活力版 4G,100020837072,420.00g,中国大陆,MT6765,6GB,null,支持MicroSD(TF),null,1300万像素,800万像素,null,高清HD+,null,10V/2.25A,人脸识别，快速充电,null,null, 荣耀（HONOR）
+小米小米10S,100010562575,385.00g,中国大陆,骁龙870,8GB,null,不支持存储卡,null,1亿像素,2000万像素,null,其他,null,其他,液冷散热，人脸识别，无线充电，快速充电，NFC，屏幕指纹，5G，超高屏占比，屏幕高刷新率,null,液冷散热, 小米（MI）
+荣耀畅玩20 4G,100011186161,400.00g,中国大陆,Unisoc T610,4GB,null,其他,null,1300万像素,500万像素,null,高清HD+,null,5V/2A,null,null,null, 荣耀（HONOR）
+OPPOK9 Pro,100026379080,0.55kg,中国大陆,天玑1200,8GB,null,null,null,6400万像素,1600万像素,null,高清HD+,null,其他,NFC，快速充电，屏幕指纹，人脸识别，5G，超高屏占比，屏幕高刷新率,null,null, OPPO
+小米（MI）小米12,10041715548525,500.00g,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 小米（MI）
+华为nova 8 Pro,100020882344,400.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+小米Redmi Note 11 4G,100029766018,450.00g,中国大陆,Helio G88,4GB,null,支持MicroSD(TF),null,5000万像素,800万像素,null,全高清FHD+,null,10V/2.25A,屏幕高刷新率,null,其他, 小米（MI）
+荣耀50 5G,100011920607,480.00g,中国大陆,其他,12GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+小米小米11 Pro,100019791960,400.00g,中国大陆,骁龙888,8GB,null,不支持存储卡,null,5000万像素,2000万像素,null,QHD+及以上,null,其他,液冷散热，人脸识别，无线充电，快速充电，防水防尘，NFC，屏幕指纹，曲面屏，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，液冷散热，游戏显示增强，游戏震感，游戏深度优化，游戏勿扰模式，游戏性能模式, 小米（MI）
+OPPOK9s,100014951045,0.6kg,中国大陆,其他,8GB,null,null,null,6400万像素,1600万像素,null,全高清FHD+,null,其他,null,null,null, OPPO
+关爱心新款X13promax超薄电竞游戏智能手机旗舰机可用5G移动电信卡老人学生老年机华为HMS系统 初雪水晶【4+32G】,10039292053625,500.00g,null,null,8GB,null,null,null,null,null,null,全高清FHD+,null,5V/1A,null,null,null, 关爱心
+真我GT 大师探索版,100023828876,0.58kg,中国大陆,骁龙870,8GB,null,不支持存储卡,null,5000万像素,3200万像素,null,全高清FHD+,null,10V/6.5A,null,null,null, 真我（realme）
+小米Redmi 9,100013937366,450.00g,中国大陆,其他,4GB,null,支持MicroSD(TF),null,1300万像素,800万像素,null,全高清FHD+,null,其他,null,null,null, 小米（MI）
+小米Redmi Note 11 Pro ,100027934334,0.52kg,中国大陆,其他,其他,null,其他,null,其他,其他,null,其他,null,其他,其他,null,其他, 小米（MI）
+OPPOReno6,100021677872,0.6kg,中国大陆,其他,12GB,null,不支持存储卡,null,6400万像素,3200万像素,null,全高清FHD+,null,其他；10V/6.5A,null,null,null, OPPO
+华为nova 9,100026797032,310.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+vivoiQOO Neo5S,10041895859687,250.00g,null,null,8GB,null,null,null,null,null,null,高清HD+,null,其他,null,null,null, vivo
+真我V15,100010058851,480.00g,中国大陆,天玑800U,6GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,10V/6.5A,null,null,null, 真我（realme）
+小米小米11 Pro,100010812171,400.00g,中国大陆,骁龙888,8GB,null,不支持存储卡,null,5000万像素,2000万像素,null,QHD+及以上,null,其他,液冷散热，人脸识别，无线充电，快速充电，防水防尘，NFC，屏幕指纹，曲面屏，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，液冷散热，游戏显示增强，游戏震感，游戏深度优化，游戏勿扰模式，游戏性能模式, 小米（MI）
+荣耀手机,100028177862,409.00g,中国大陆,天玑810,6GB,null,null,null,null,null,null,其他,null,10V/2.25A,null,null,null, 荣耀（HONOR）
+小米Redmi Note10 Pro,100011650801,500.00g,中国大陆,天玑1100,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,其他,液冷散热,null,游戏性能模式, 小米（MI）
+OPPOK9,100020693616,0.54kg,中国大陆,其他,8GB,null,不支持存储卡,null,6400万像素,3200万像素,null,全高清FHD+,null,10V/6.5A,屏幕指纹，快速充电，5G，超高屏占比，屏幕高刷新率,null,null, OPPO
+vivoS12,100029782958,0.53kg,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, vivo
+荣耀手机,100024979796,0.55kg,中国大陆,骁龙888 Plus,12GB,null,不支持存储卡,null,5000万像素,1300万像素,null,全高清FHD+,null,10V/4A；10V/2A；11V/6A；10V/2.25A；9V/2A,防水防尘，NFC，屏幕指纹，高倍率变焦，人脸识别，快速充电，无线充电，曲面屏，5G，超高屏占比，3D(ToF或结构光)，屏幕高刷新率,null,null, 荣耀（HONOR）
+vivoiQOO Z3,100022108766,0.515kg,中国大陆,骁龙768G,8GB,null,支持MicroSD(TF),null,6400万像素,1600万像素,null,其他,null,其他,快速充电，5G，超高屏占比，屏幕高刷新率,null,null, vivo
+OPPOReno7,100029371874,0.585kg,中国大陆,null,8GB,null,null,null,6400万像素,3200万像素,null,全高清FHD+,null,其他,null,null,null, OPPO
+小米Redmi Note 11 Pro ,100015195315,0.51kg,中国大陆,其他,其他,null,其他,null,其他,其他,null,其他,null,其他,其他,null,其他, 小米（MI）
+真我GT,100010395381,0.525kg,中国大陆,骁龙888,12GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,10V/6.5A,null,null,null, 真我（realme）
+vivoiQOO 8 Pro,100024540706,0.725kg,中国大陆,骁龙888 Plus,8GB,null,不支持存储卡,null,5000万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，液冷散热，无线充电，5G，超高屏占比,null,游戏性能模式, vivo
+荣耀play5 5G,100011473967,460.00g,中国大陆,天玑800U,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,11V/6A,NFC，快速充电，5G,null,null, 荣耀（HONOR）
+荣耀手机,100028177864,410.00g,中国大陆,天玑810,8GB,null,null,null,null,null,null,其他,null,10V/2.25A,null,null,null, 荣耀（HONOR）
+荣耀荣耀手机,100029666210,500.00g,中国大陆,null,12GB,null,null,null,10800万像素,null,null,全高清FHD+,null,其他,null,null,null, 荣耀（HONOR）
+荣耀（HONOR）荣耀play5T活力版,10033127665442,415.00g,null,null,其他,null,null,null,null,null,null,其他,null,10V/2.25A,人脸识别，快速充电,null,null, 荣耀（HONOR）
+黑鲨新品,100026823074,0.65kg,中国大陆,骁龙870,12GB,null,null,null,4800万像素,2000万像素,null,全高清FHD+,null,20V/6A,NFC，人脸识别，快速充电，液冷散热，5G，屏幕高刷新率,null,液冷散热，游戏音效增强，游戏显示增强，游戏性能模式，MEMC（运动补偿），游戏灯效，游戏独立按键, 黑鲨
+索尼Xperia PRO-I,100028310790,450.00g,泰国,null,12GB,null,null,null,null,null,null,QHD+及以上,null,9V/3A,null,null,null, 索尼（SONY）
+小米小米11 Pro,100019791894,400.00g,中国大陆,骁龙888,12GB,null,不支持存储卡,null,5000万像素,2000万像素,null,QHD+及以上,null,其他,液冷散热，人脸识别，无线充电，快速充电，防水防尘，NFC，屏幕指纹，曲面屏，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，液冷散热，游戏显示增强，游戏震感，游戏深度优化，游戏勿扰模式，游戏性能模式, 小米（MI）
+荣耀50 SE 5G,100023054146,470.00g,中国大陆,天玑900,8GB,null,不支持存储卡,null,1亿像素,1600万像素,null,全高清FHD+,null,11V/6A,快速充电，5G,null,null, 荣耀（HONOR）
+小米Redmi Note 11 Pro+,100015195317,0.64kg,中国大陆,天玑920,8GB,null,支持MicroSD(TF),null,1亿像素,1600万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，液冷散热，5G，超高屏占比，屏幕高刷新率,null,其他, 小米（MI）
+AppleiPhone 12,100016034390,320.00g,中国大陆,其他,其他,null,不支持存储卡,null,1200万像素,1200万像素,null,其他,null,其他,null,null,null, Apple
+华为P50系列,100024533314,350.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+荣耀荣耀手机,100017179435,425.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 荣耀（HONOR）
+小米 11,100017354068,360.00g,中国大陆,骁龙888,8GB,null,不支持存储卡,null,1亿像素,2000万像素,null,QHD+及以上,null,其他,液冷散热，人脸识别，无线充电，快速充电，NFC，屏幕指纹，曲面屏，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，液冷散热，游戏显示增强，游戏震感，游戏深度优化，游戏勿扰模式，游戏性能模式, 小米（MI）
+OPPOReno7 Pro,100029467972,0.6kg,中国大陆,null,12GB,null,null,null,null,null,null,全高清FHD+,null,10V/6.5A,null,null,null, OPPO
+vivoiQOO 7,100017405448,0.78kg,中国大陆,骁龙888,其他,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，5G，超高屏占比，屏幕高刷新率,null,游戏性能模式, vivo
+小米11青春版,100019888160,300.00g,中国大陆,骁龙780G,8GB,null,支持MicroSD(TF),null,6400万像素,2000万像素,null,全高清FHD+,null,其他,液冷散热，人脸识别，快速充电，防水防尘，NFC，5G，超高屏占比，屏幕高刷新率,null,液冷散热，游戏性能模式, 小米（MI）
+vivoiQOO U3x,100010663543,470.00g,中国大陆,其他,6GB,null,不支持存储卡,null,1300万像素,800万像素,null,其他,null,其他,5G,null,游戏勿扰模式, vivo
+vivoX60,10025076447346,1.0kg,null,其他,8GB,null,不支持存储卡,null,4800万像素,3200万像素,null,全高清FHD+,null,其他,null,null,null, vivo
+OPPOK7x,100009255069,0.55kg,中国大陆,其他,6GB,null,支持MicroSD(TF),null,4800万像素,1600万像素,null,全高清FHD+,null,5V6A,快速充电，5G，超高屏占比，屏幕高刷新率,null,null, OPPO
+小米Redmi Note 9 4G,100009576397,420.00g,中国大陆,骁龙662,4GB,null,支持MicroSD(TF),null,4800万像素,800万像素,null,全高清FHD+,null,其他,null,null,null, 小米（MI）
+荣耀新品手机,100029666262,0.51kg,中国大陆,null,8GB,null,null,null,10800万像素,3200万像素,null,全高清FHD+,null,其他,null,null,null, 荣耀（HONOR）
+荣耀50 5G,100023014900,500.00g,中国大陆,其他,8GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+华为nova 9,100014438283,320.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+vivoiQOO U5,100030677466,467.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, vivo
+真我GT 大师探索版,100023828882,0.56kg,中国大陆,骁龙870,8GB,null,不支持存储卡,null,5000万像素,3200万像素,null,全高清FHD+,null,10V/6.5A,null,null,null, 真我（realme）
+小米Redmi Note 11 4G,100016415675,440.00g,中国大陆,Helio G88,6GB,null,支持MicroSD(TF),null,5000万像素,800万像素,null,全高清FHD+,null,10V/2.25A,屏幕高刷新率,null,其他, 小米（MI）
+华为nova 9,100026796998,310.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+小米Redmi Note 11 4G,100016415693,450.00g,中国大陆,Helio G88,4GB,null,支持MicroSD(TF),null,5000万像素,800万像素,null,全高清FHD+,null,10V/2.25A,屏幕高刷新率,null,其他, 小米（MI）
+一加9 Pro,100018927438,0.735kg,中国大陆,骁龙888,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,QHD+及以上,null,10V/6.5A,防水防尘，NFC，屏幕指纹，人脸识别，快速充电，无线充电，曲面屏，5G，超高屏占比，屏幕高刷新率,null,null, 一加
+飞利浦PH2,100029276674,300.00g,中国大陆,null,4GB,null,支持MicroSD(TF),null,1300万像素,500万像素,null,高清HD+,null,其他,null,null,null, 飞利浦（PHILIPS ）
+小米小米11 Pro,100019791894,400.00g,中国大陆,骁龙888,12GB,null,不支持存储卡,null,5000万像素,2000万像素,null,QHD+及以上,null,其他,液冷散热，人脸识别，无线充电，快速充电，防水防尘，NFC，屏幕指纹，曲面屏，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，液冷散热，游戏显示增强，游戏震感，游戏深度优化，游戏勿扰模式，游戏性能模式, 小米（MI）
+荣耀50 SE 5G,100023054146,470.00g,中国大陆,天玑900,8GB,null,不支持存储卡,null,1亿像素,1600万像素,null,全高清FHD+,null,11V/6A,快速充电，5G,null,null, 荣耀（HONOR）
+小米Redmi Note 11 Pro+,100015195317,0.64kg,中国大陆,天玑920,8GB,null,支持MicroSD(TF),null,1亿像素,1600万像素,null,全高清FHD+,null,其他,NFC，人脸识别，快速充电，液冷散热，5G，超高屏占比，屏幕高刷新率,null,其他, 小米（MI）
+AppleiPhone 12,100016034390,320.00g,中国大陆,其他,其他,null,不支持存储卡,null,1200万像素,1200万像素,null,其他,null,其他,null,null,null, Apple
+华为P50系列,100024533314,350.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+荣耀（HONOR）荣耀 畅玩30 Plus,10042215265615,500.00g,null,null,其他,null,null,null,null,null,null,其他,null,10V/2.25A,null,null,null, 荣耀（HONOR）
+小米 11,100017354068,360.00g,中国大陆,骁龙888,8GB,null,不支持存储卡,null,1亿像素,2000万像素,null,QHD+及以上,null,其他,液冷散热，人脸识别，无线充电，快速充电，NFC，屏幕指纹，曲面屏，5G，超高屏占比，屏幕高刷新率,null,游戏音效增强，液冷散热，游戏显示增强，游戏震感，游戏深度优化，游戏勿扰模式，游戏性能模式, 小米（MI）
+OPPOReno7 Pro,100029467972,0.6kg,中国大陆,null,12GB,null,null,null,null,null,null,全高清FHD+,null,10V/6.5A,null,null,null, OPPO
+vivoiQOO 7,100017405448,0.78kg,中国大陆,骁龙888,其他,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，5G，超高屏占比，屏幕高刷新率,null,游戏性能模式, vivo
+小米11青春版,100019888160,300.00g,中国大陆,骁龙780G,8GB,null,支持MicroSD(TF),null,6400万像素,2000万像素,null,全高清FHD+,null,其他,液冷散热，人脸识别，快速充电，防水防尘，NFC，5G，超高屏占比，屏幕高刷新率,null,液冷散热，游戏性能模式, 小米（MI）
+vivoiQOO U3x,100010663543,470.00g,中国大陆,其他,6GB,null,不支持存储卡,null,1300万像素,800万像素,null,其他,null,其他,5G,null,游戏勿扰模式, vivo
+vivoiQOO 8,10034531327942,200.00g,null,骁龙888,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,null,快速充电，无线充电，屏幕指纹,null,游戏音效增强，游戏显示增强, vivo
+OPPOK7x,100009255069,0.55kg,中国大陆,其他,6GB,null,支持MicroSD(TF),null,4800万像素,1600万像素,null,全高清FHD+,null,5V6A,快速充电，5G，超高屏占比，屏幕高刷新率,null,null, OPPO
+小米Redmi Note 9 4G,100009576397,420.00g,中国大陆,骁龙662,4GB,null,支持MicroSD(TF),null,4800万像素,800万像素,null,全高清FHD+,null,其他,null,null,null, 小米（MI）
+荣耀新品手机,100029666262,0.51kg,中国大陆,null,8GB,null,null,null,10800万像素,3200万像素,null,全高清FHD+,null,其他,null,null,null, 荣耀（HONOR）
+荣耀50 5G,100023014900,500.00g,中国大陆,其他,8GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+华为nova 9,100014438283,320.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+荣耀（HONOR）荣耀60,10041514161284,200.00g,null,null,8GB,null,null,null,null,null,null,全高清FHD+,null,其他,null,null,null, 荣耀（HONOR）
+真我GT 大师探索版,100023828882,0.56kg,中国大陆,骁龙870,8GB,null,不支持存储卡,null,5000万像素,3200万像素,null,全高清FHD+,null,10V/6.5A,null,null,null, 真我（realme）
+小米Redmi Note 11 4G,100016415675,440.00g,中国大陆,Helio G88,6GB,null,支持MicroSD(TF),null,5000万像素,800万像素,null,全高清FHD+,null,10V/2.25A,屏幕高刷新率,null,其他, 小米（MI）
+华为nova 9,100026796998,310.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+小米Redmi Note 11 4G,100016415693,450.00g,中国大陆,Helio G88,4GB,null,支持MicroSD(TF),null,5000万像素,800万像素,null,全高清FHD+,null,10V/2.25A,屏幕高刷新率,null,其他, 小米（MI）
+一加9 Pro,100018927438,0.735kg,中国大陆,骁龙888,8GB,null,不支持存储卡,null,4800万像素,1600万像素,null,QHD+及以上,null,10V/6.5A,防水防尘，NFC，屏幕指纹，人脸识别，快速充电，无线充电，曲面屏，5G，超高屏占比，屏幕高刷新率,null,null, 一加
+纽曼R15,100002092243,78.00g,中国大陆,其他,其他,null,支持MicroSD(TF),null,其他,无前置摄像头,null,其他,null,其他,null,null,null, 纽曼（Newman）
+真我GT Neo2,100014445625,0.58kg,中国大陆,骁龙870,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,10V/6.5A,null,null,null, 真我（realme）
+小米Redmi Note 11 5G,100015394633,475.00g,中国大陆,其他,8GB,null,支持MicroSD(TF),null,5000万像素,1600万像素,null,全高清FHD+,null,其他,人脸识别,null,其他, 小米（MI）
+真我新品,100027703926,461.00g,中国大陆,骁龙778G,6GB,null,null,null,4800万像素,1600万像素,null,全高清FHD+,null,5V6A,null,null,null, 真我（realme）
+一加9,100010594805,0.72kg,中国大陆,骁龙888,12GB,null,不支持存储卡,null,4800万像素,1600万像素,null,全高清FHD+,null,10V/6.5A；其他,NFC，屏幕指纹，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,null, 一加
+小米Redmi Note 9 4G,100009576427,420.00g,中国大陆,骁龙662,8GB,null,支持MicroSD(TF),null,4800万像素,800万像素,null,全高清FHD+,null,其他,null,null,null, 小米（MI）
+vivoiQOO Neo5s,10041276140645,500.00g,null,骁龙888,8GB,null,null,null,null,null,null,QHD+及以上,null,11V/6A,null,null,null, vivo
+真我新品,100027703908,461.00g,中国大陆,骁龙778G,6GB,null,null,null,4800万像素,1600万像素,null,全高清FHD+,null,5V6A,null,null,null, 真我（realme）
+小米Redmi 9A,100015330230,369.00g,中国大陆,其他,4GB,null,支持MicroSD(TF),null,1300万像素,500万像素,null,其他,null,5V/2A,null,null,null, 小米（MI）
+荣耀50 5G,100013539289,500.00g,中国大陆,其他,8GB,null,不支持存储卡,null,10800万像素,3200万像素,null,全高清FHD+,null,10V/4A；11V/6A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+中兴A2322,100024399236,0.62kg,中国大陆,骁龙870,8GB,null,支持MicroSD(TF),null,6400万像素,1600万像素,null,全高清FHD+,null,9V/3A；5V/3A；其他,null,null,无游戏配置, 中兴（ZTE）
+荣耀X20 5G,100024791406,450.00g,中国大陆,天玑900,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,11V/6A,快速充电，5G,null,null, 荣耀（HONOR）
+vivoiQOO 7,100017405448,0.78kg,中国大陆,骁龙888,其他,null,不支持存储卡,null,4800万像素,1600万像素,null,其他,null,其他,NFC，屏幕指纹，快速充电，5G，超高屏占比，屏幕高刷新率,null,游戏性能模式, vivo
+华为nova 8 SE,100029707272,420.00g,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+OPPOReno7 Pro,100016216541,0.59kg,中国大陆,null,12GB,null,null,null,null,null,null,全高清FHD+,null,10V/6.5A,null,null,null, OPPO
+荣耀新品手机,100029666246,500.00g,中国大陆,null,8GB,null,null,null,10800万像素,3200万像素,null,全高清FHD+,null,其他,null,null,null, 荣耀（HONOR）
+联想拯救者二代手机,100019677428,0.861kg,中国大陆,骁龙888,12GB,null,其他,null,6400万像素,4400万像素,null,其他,null,其他,液冷散热，NFC，屏幕指纹，5G，弹出式摄像头，屏幕高刷新率,null,游戏外观，风冷散热，液冷散热，游戏震感，游戏性能模式，游戏灯效，游戏独立按键, 联想
+OPPOA11s,100025992258,485.00g,中国大陆,null,8GB,null,null,null,1300万像素,800万像素,null,其他,null,9V/2A,null,null,null, OPPO
+三星Galaxy Z Flip3 5G,100013225239,400.00g,越南,骁龙888,8GB,null,不支持存储卡,null,1200万像素,1000万像素,null,全高清FHD+,null,9V/1.67A,NFC，人脸识别，无线充电，5G，折叠屏,null,null, 三星（SAMSUNG）
+vivoS10,100023397118,0.55kg,中国大陆,天玑1100,8GB,null,不支持存储卡,null,6400万像素,4400万像素,null,全高清FHD+,null,11V/4A,null,null,null, vivo
+酷派COOL 20,100022299554,335.00g,中国大陆,其他,4GB,null,支持MicroSD(TF),null,4800万像素,500万像素,null,高清HD+,null,5V/2A,null,null,null, 酷派（Coolpad）
+AppleiPhone 13,100026667896,320.00g,中国大陆,null,其他,null,null,null,null,null,null,其他,null,其他,null,null,null, Apple
+三星Galaxy S20 FE 5G,100015911310,450.00g,越南,骁龙865,8GB,null,支持MicroSD(TF),null,1200万像素,3200万像素,null,全高清FHD+,null,9V/1.67A,NFC，屏幕指纹，人脸识别，快速充电，无线充电，5G，超高屏占比，屏幕高刷新率,null,null, 三星（SAMSUNG）
+OPPOA32,100009588325,480.00g,中国大陆,其他,4GB,null,支持MicroSD(TF),null,1300万像素,800万像素,null,其他,null,其他,null,null,null, OPPO
+华为Mate X2,100012248169,0.9kg,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+一加新品,100011460839,0.71kg,中国大陆,骁龙870,12GB,null,不支持存储卡,null,4800万像素,1600万像素,null,全高清FHD+,null,10V/6.5A；其他,NFC，屏幕指纹，人脸识别，快速充电，5G，超高屏占比，屏幕高刷新率,null,null, 一加
+vivoiQOO Z5,100014128449,480.00g,中国大陆,骁龙778G,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,其他,null,其他,5G，超高屏占比,null,游戏性能模式, vivo
+华为nova 9 Pro,100014438267,0.55kg,中国大陆,null,null,null,null,null,null,null,null,null,null,null,null,null,null, 华为（HUAWEI）
+荣耀50 PRO 5G,100022591566,0.6kg,中国大陆,其他,8GB,null,不支持存储卡,null,10800万像素,1200万像素,null,全高清FHD+,null,10V/4A；11V/6A；20V/5A,NFC，快速充电，曲面屏，5G，屏幕高刷新率,null,null, 荣耀（HONOR）
+vivoiQOO U3,100017020804,468.00g,中国大陆,天玑800U,8GB,null,不支持存储卡,null,4800万像素,800万像素,null,其他,null,其他,快速充电，5G，超高屏占比，屏幕高刷新率,null,null, vivo
+Apple其他,10037126486405,1.0kg,null,其他,其他,null,其他,null,其他,其他,null,其他,null,其他,null,null,null, Apple
+小米MIX 4,100024972370,0.87kg,中国大陆,骁龙888 Plus,12GB,null,不支持存储卡,null,1亿像素,2000万像素,null,全高清FHD+,null,其他,快速充电，无线充电，人脸识别，屏幕指纹，NFC，5G，超高屏占比，屏幕高刷新率,null,游戏勿扰模式, 小米（MI）
+vivoT1,100014581613,450.00g,中国大陆,骁龙778G,8GB,null,不支持存储卡,null,6400万像素,1600万像素,null,全高清FHD+,null,11V/4A,null,null,null, vivo
+小米小米10S,100010562571,390.00g,中国大陆,骁龙870,12GB,null,不支持存储卡,null,1亿像素,2000万像素,null,其他,null,其他,液冷散热，人脸识别，无线充电，快速充电，NFC，屏幕指纹，5G，超高屏占比，屏幕高刷新率,null,液冷散热, 小米（MI）
+小米小米10S,100010562573,385.00g,中国大陆,骁龙870,12GB,null,不支持存储卡,null,1亿像素,2000万像素,null,其他,null,其他,液冷散热，人脸识别，无线充电，快速充电，NFC，屏幕指纹，5G，超高屏占比，屏幕高刷新率,null,液冷散热, 小米（MI）
+Redmi 9A 5000mAh大电量 1300万AI相机 八核处理器 手机红米小米 湖光绿 4GB+64GB,10032788941303,367.00g,null,其他,4GB,null,支持MicroSD(TF),null,1300万像素,500万像素,null,其他,null,12V/2A；10V/2A；5V/1A；5V/8.8A；5V/1.5A；5V/2A；5V/3A；5V/4A；5V/4.5A；9V/2A,null,null,null, 小米（MI）
