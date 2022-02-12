@@ -157,7 +157,7 @@
             <version>1.2.4</version>
         </dependency>
 
-        <!--  mvc相关      -->
+        <!--  mybatis      -->
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
@@ -169,6 +169,14 @@
             <version>8.0.27</version>
 <!--            <scope>provided</scope>-->
         </dependency>
+
+        <!--        结巴分词-->
+        <dependency>
+            <groupId>com.huaban</groupId>
+            <artifactId>jieba-analysis</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+
 
     </dependencies>
 
@@ -219,14 +227,24 @@
                         <goals>
                             <goal>shade</goal>
                         </goals>
-<!--                        <configuration>-->
+                        <configuration>
+                            <filters>
+                                <filter>
+                                    <artifact>*:*</artifact>
+                                    <excludes>
+                                        <exclude>META-INF/*.SF</exclude>
+                                        <exclude>META-INF/*.DSA</exclude>
+                                        <exclude>META-INF/*.RSA</exclude>
+                                    </excludes>
+                                </filter>
+                            </filters>
 <!--&lt;!&ndash;                            <minimizeJar>true</minimizeJar>&ndash;&gt;-->
 <!--                            <transformers>-->
 <!--                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">-->
 <!--                                    <mainClass>com.kuka.jd.kafka.consumer.mainConsumer</mainClass>-->
 <!--                                </transformer>-->
 <!--                            </transformers>-->
-<!--                        </configuration>-->
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>

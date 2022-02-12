@@ -3,11 +3,11 @@
 <configuration>
     <property>
         <name>hive.metastore.warehouse.dir</name>
-        <value>hdfs://localhost:9000/user/hive/warehouse</value>
+        <value>hdfs://master4:9000/user/hive/warehouse</value>
     </property>
   <property>
     <name>javax.jdo.option.ConnectionURL</name>
-    <value>jdbc:mysql://localhost:3306/hive?createDatabaseIfNotExist=true</value>
+    <value>jdbc:mysql://slave5:3306/hive?createDatabaseIfNotExist=true</value>
     <description>JDBC connect string for a JDBC metastore</description>
   </property>
   <property>

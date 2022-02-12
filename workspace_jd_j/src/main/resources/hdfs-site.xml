@@ -19,7 +19,7 @@
 <configuration>
 	<property>
 		<name>dfs.namenode.secondary.http-address</name>
-		<value>localhost:50090</value>
+		<value>master4:50090</value>
 	</property>
 	<property>
 	     	<name>dfs.replication</name>
@@ -35,6 +35,6 @@
 	</property>
 	<property>
 		  <name>dfs.http.address</name>
-		  <value>localhost:50070</value>
+		  <value>master4:50070</value>
 	</property>
 </configuration>
