@@ -37,37 +37,24 @@
 
 ### 项目架构
 
-/jd_phone_project																									总项目
+/jd_phone_project                                                 总项目
 
-​		/work_space_jd																								项目的Python部分（生产端）
+----/work_space_jd																								项目的Python部分（生产端）
+--------/src/Get																									原项目的爬取脚本，可以用来测试
+--------/src/KafkaProducter																				 本项目的爬取脚本和kafka生产代码
+--------------/jdPhoneProducer.py																	   ①爬取主脚本
+--------/target																									  测试生成的csv文件
 
-​				/src/Get																									原项目的爬取脚本，可以用来测试
-
-​				/src/KafkaProducter																				 本项目的爬取脚本和kafka生产代码
-
-​						/jdPhoneProducer.py																	   ①爬取主脚本
-
-​				/target																									  测试生成的csv文件
-
-​		/work_space_jd_j																							项目的Java/Scala部分（消费端）
-
-​				/lib																										   一些spark用的jar包
-
-​				/src/main/resource																				  配置文件
-
-​				/src/main/java/com/kuka																		 项目主体
-
-​						/kafka/consumer																			 ②kafka消费类
-
-​						/jd/DataProcessing																		 数据处理主体
-
-​								/dao																					    mybatis的dao
-
-​								/util																						 工具类
-
-​								/TableConversion.scala														 ③数据导入导出类
-
-​								/processingMain.scala														   ④spark sql数据处理类
+----/work_space_jd_j																							项目的Java/Scala部分（消费端）
+--------/lib																										   一些spark用的jar包
+--------/src/main/resource																				  配置文件
+--------/src/main/java/com/kuka																		 项目主体
+------------/kafka/consumer																			 ②kafka消费类
+------------/jd/DataProcessing																		 数据处理主体
+----------------/dao																					    mybatis的dao
+----------------/util																						 工具类
+----------------/TableConversion.scala														 ③数据导入导出类
+----------------/processingMain.scala														   ④spark sql数据处理类
 
 ​								
 
