@@ -29,6 +29,7 @@ class processingMain{
     val sparkConf = new SparkConf()
     sparkConf.setJars(Array("target/workspace_jd_j-1.0-SNAPSHOT.jar", "lib/jars/mysql-connector-java-8.0.27.jar"))
       .set("spark.executor.memory", "2000m")
+      .set("spark.default.parallelism", "100")
     this.sparkSession = SparkSession.builder()
       .appName("jd_exec")
       .master("spark://" + host + ":" + sparkPort)
